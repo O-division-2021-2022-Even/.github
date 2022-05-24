@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=H-Division-2021-2022-Even&label=REPOSITORY+VIEWS)
+![](https://komarev.com/ghpvc/?username=O-Division-2021-2022-Even&label=REPOSITORY+VIEWS)
              <h3 align="center"><img align="center" src="https://www.kletech.ac.in/wp-content/uploads/2019/07/logo.png"></h3>
 **KLE Technological University (KLE Tech)**, earlier known as **BVBCET (Hubli)**, is a leading centre for teaching and research in India.
 <br>
